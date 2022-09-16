@@ -1,0 +1,31 @@
+@media only screen and (max-width : 991px) {
+    header .logo {
+            width: 9rem;
+            max-width: 100%;
+            float: left;
+            margin-top: 15px;
+    }
+
+    .home-section-1 {
+        margin-top: 8rem;
+    }
+    
+    .nav-pc{
+        display: none;
+    }
+
+    .nav-mobile{
+        display: block !important;
+    }
+    
+    .icon{
+        display: none;
+    }
+
+    .icon-2{
+        display: block !important;
+    }
+    .home-section-1 {
+        padding-top: 4.8rem;
+    }
+}
